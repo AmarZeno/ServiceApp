@@ -46,6 +46,7 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\AWS\Examples\S3Example.cs" />
+     <Compile Include="Assets\Insurance App\assets\Scripts\AWSManager.cs" />
      <None Include="Assets\AWS\Plugins\Android\AndroidManifest.xml" />
      <None Include="Assets\AWS\Examples\License.txt" />
  <Reference Include="UnityEngine">
